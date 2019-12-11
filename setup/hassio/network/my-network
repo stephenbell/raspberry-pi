@@ -13,9 +13,7 @@ key-mgmt=wpa-psk
 psk=YOUR_PASSWORD_HASH
 
 [ipv4]
-method=manual
-address=192.168.0.222/24,192.168.0.1
-dns=75.75.75.75;75.75.76.76;
+method=auto
 
 [ipv6]
 addr-gen-mode=stable-privacy
