@@ -4,7 +4,7 @@ How to install Hass.io on an SD card
 
 #. Download the Hass.io_ tarball 
 
-#. Flash the image onto an SD card using a tool such as Etcher_
+#. Flash the image onto an SD card using a tool such as balenaEtcher_
 
 Optional - set up the Wi-Fi or a static IP address. There are two possible places for that:
 
@@ -14,5 +14,5 @@ Optional - set up the Wi-Fi or a static IP address. There are two possible place
 For the content of this file, follow the Home Assistant Operating System howto_.
 
 .. _Hass.io: https://www.home-assistant.io/hassio/installation/
-.. _Etcher: https://www.balena.io/etcher/
+.. _balenaEtcher: https://www.balena.io/etcher/
 .. _howto: https://github.com/home-assistant/operating-system/blob/dev/Documentation/network.md

@@ -4,7 +4,7 @@ How to install Raspbian on an SD card
 
 #. Download the Raspbian_ image.
 
-#. Flash the image onto an SD card using a tool such as Etcher_.
+#. Flash the image onto an SD card using a tool such as balenaEtcher_.
 
 Optional -
 
@@ -28,4 +28,4 @@ Optional -
    .. note:: The "password hash" can be generated using wpa_passphrase on the command line.
 
 .. _Raspbian: https://www.raspberrypi.org/downloads/
-.. _Etcher: https://www.balena.io/etcher/
+.. _balenaEtcher: https://www.balena.io/etcher/
