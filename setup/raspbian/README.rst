@@ -6,7 +6,7 @@ How to install Raspbian on an SD card
 
 #. Flash the image onto an SD card using a tool such as Etcher_.
 
-Optional steps:
+Optional -
 
 #. To enable SSH, place a file named ssh, without any extension, in the boot folder on the SD card.
 
